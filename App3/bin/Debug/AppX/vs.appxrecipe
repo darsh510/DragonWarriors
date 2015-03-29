@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANVESH-PC</Machine>
+    <WindowsUser>anves_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>402cbab3-6d00-4492-be7a-6e2226ca36a7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>47A3E16A22CF1F0F21F60DCEFB85DAFC3C9F22A2E1478F79F1C117306A29107C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>402cbab3-6d00-4492-be7a-6e2226ca36a7_1.0.0.0_neutral__10ckjf088hme0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>402cbab3-6d00-4492-be7a-6e2226ca36a7_10ckjf088hme0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>402cbab3-6d00-4492-be7a-6e2226ca36a7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vikramraigur</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-29T04:58:47.246</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2015-03-29T04:58:47.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-03-28T20:09:10.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2015-03-28T20:09:10.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-03-28T20:09:11.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-28T20:09:04.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-28T20:09:04.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-28T20:09:04.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-28T20:09:04.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\Assets\profile.jpg">
+      <PackagePath>Assets\profile.jpg</PackagePath>
+      <Modified>2015-03-29T02:23:08.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-28T20:21:31.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-29T04:58:46.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2015-03-29T04:58:46.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anves_000\Documents\Visual Studio 2013\Projects\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-29T04:58:47.089</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

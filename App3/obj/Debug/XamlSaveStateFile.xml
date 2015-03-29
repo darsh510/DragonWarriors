@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\vikramraigur\documents\visual studio 2013\projects\app3\app3\obj\debug\intermediatexaml\app3.exe" HashGuid="5d619e82-02b9-30e5-1d2d-b930f28b2a9a" />
+    <ReferenceAssembly PathName="c:\users\anves_000\documents\visual studio 2013\projects\app3\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\anves_000\documents\visual studio 2013\projects\app3\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\anves_000\documents\visual studio 2013\projects\app3\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
